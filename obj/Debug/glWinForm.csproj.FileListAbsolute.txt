@@ -1,0 +1,63 @@
+W:\Documents\Work\Visual Studio 2008\Projects\glWinForm\bin\Debug\glWinForm.exe
+W:\Documents\Work\Visual Studio 2008\Projects\glWinForm\bin\Debug\glWinForm.pdb
+W:\Documents\Work\Visual Studio 2008\Projects\glWinForm\obj\Debug\ResolveAssemblyReference.cache
+W:\Documents\Work\Visual Studio 2008\Projects\glWinForm\obj\Debug\glWinForm.MainForm.resources
+W:\Documents\Work\Visual Studio 2008\Projects\glWinForm\obj\Debug\glWinForm.Properties.Resources.resources
+W:\Documents\Work\Visual Studio 2008\Projects\glWinForm\obj\Debug\OpenGL.ViewGL.resources
+W:\Documents\Work\Visual Studio 2008\Projects\glWinForm\obj\Debug\glWinForm.csproj.GenerateResource.Cache
+W:\Documents\Work\Visual Studio 2008\Projects\glWinForm\obj\Debug\glWinForm.exe
+W:\Documents\Work\Visual Studio 2008\Projects\glWinForm\obj\Debug\glWinForm.pdb
+W:\Users\Bigwig\Visual Studio 2008\Projects\glWinForm\obj\Debug\glWinForm.exe
+W:\Users\Bigwig\Visual Studio 2008\Projects\glWinForm\obj\Debug\glWinForm.pdb
+W:\Users\Bigwig\Visual Studio 2008\Projects\glWinForm\bin\Debug\glWinForm.exe
+W:\Users\Bigwig\Visual Studio 2008\Projects\glWinForm\bin\Debug\glWinForm.pdb
+W:\Users\Bigwig\Visual Studio 2008\Projects\glWinForm\obj\Debug\ResolveAssemblyReference.cache
+W:\Users\Bigwig\Visual Studio 2008\Projects\glWinForm\obj\Debug\glWinForm.MainForm.resources
+W:\Users\Bigwig\Visual Studio 2008\Projects\glWinForm\obj\Debug\glWinForm.Properties.Resources.resources
+W:\Users\Bigwig\Visual Studio 2008\Projects\glWinForm\obj\Debug\OpenGL.ViewGL.resources
+W:\Users\Bigwig\Visual Studio 2008\Projects\glWinForm\obj\Debug\glWinForm.csproj.GenerateResource.Cache
+D:\Work\000\glWinForm\obj\Debug\glWinForm.exe
+D:\Work\000\glWinForm\obj\Debug\glWinForm.pdb
+D:\Work\000\glWinForm\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\000\glWinForm\obj\Debug\glWinForm.MainForm.resources
+D:\Work\000\glWinForm\obj\Debug\glWinForm.Properties.Resources.resources
+D:\Work\000\glWinForm\obj\Debug\OpenGL.ViewGL.resources
+D:\Work\000\glWinForm\obj\Debug\glWinForm.csproj.GenerateResource.Cache
+D:\Work\000\glWinForm\bin\Debug\glWinForm.exe
+D:\Work\000\glWinForm\bin\Debug\glWinForm.pdb
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Основное\ИКГ\Примеры\04 Шаблоны приложений с OpenGL\C# (for VS 2008)\glWinForm\obj\Debug\glWinForm.exe
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Основное\ИКГ\Примеры\04 Шаблоны приложений с OpenGL\C# (for VS 2008)\glWinForm\obj\Debug\glWinForm.pdb
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Основное\ИКГ\Примеры\04 Шаблоны приложений с OpenGL\C# (for VS 2008)\glWinForm\bin\Debug\glWinForm.exe
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Основное\ИКГ\Примеры\04 Шаблоны приложений с OpenGL\C# (for VS 2008)\glWinForm\bin\Debug\glWinForm.pdb
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Основное\ИКГ\Примеры\04 Шаблоны приложений с OpenGL\C# (for VS 2008)\glWinForm\obj\Debug\ResolveAssemblyReference.cache
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Основное\ИКГ\Примеры\04 Шаблоны приложений с OpenGL\C# (for VS 2008)\glWinForm\obj\Debug\glWinForm.MainForm.resources
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Основное\ИКГ\Примеры\04 Шаблоны приложений с OpenGL\C# (for VS 2008)\glWinForm\obj\Debug\glWinForm.Properties.Resources.resources
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Основное\ИКГ\Примеры\04 Шаблоны приложений с OpenGL\C# (for VS 2008)\glWinForm\obj\Debug\OpenGL.ViewGL.resources
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Основное\ИКГ\Примеры\04 Шаблоны приложений с OpenGL\C# (for VS 2008)\glWinForm\obj\Debug\glWinForm.csproj.GenerateResource.Cache
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\ДЗ\glWinForm\obj\Debug\glWinForm.exe
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\ДЗ\glWinForm\obj\Debug\glWinForm.pdb
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\ДЗ\glWinForm\bin\Debug\glWinForm.exe
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\ДЗ\glWinForm\bin\Debug\glWinForm.pdb
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\ДЗ\glWinForm\obj\Debug\ResolveAssemblyReference.cache
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\ДЗ\glWinForm\obj\Debug\glWinForm.MainForm.resources
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\ДЗ\glWinForm\obj\Debug\glWinForm.Properties.Resources.resources
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\ДЗ\glWinForm\obj\Debug\OpenGL.ViewGL.resources
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\ДЗ\glWinForm\obj\Debug\glWinForm.csproj.GenerateResource.Cache
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\ДЗ\Часть 2\glWinForm\obj\Debug\glWinForm.exe
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\ДЗ\Часть 2\glWinForm\obj\Debug\glWinForm.pdb
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\ДЗ\Часть 2\glWinForm\bin\Debug\glWinForm.exe
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\ДЗ\Часть 2\glWinForm\bin\Debug\glWinForm.pdb
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\ДЗ\Часть 2\glWinForm\obj\Debug\ResolveAssemblyReference.cache
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\ДЗ\Часть 2\glWinForm\obj\Debug\glWinForm.MainForm.resources
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\ДЗ\Часть 2\glWinForm\obj\Debug\glWinForm.Properties.Resources.resources
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\ДЗ\Часть 2\glWinForm\obj\Debug\OpenGL.ViewGL.resources
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\ДЗ\Часть 2\glWinForm\obj\Debug\glWinForm.csproj.GenerateResource.Cache
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\ДЗ\Part 2\glWinForm\obj\Debug\glWinForm.exe
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\ДЗ\Part 2\glWinForm\obj\Debug\glWinForm.pdb
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\ДЗ\Part 2\glWinForm\bin\Debug\glWinForm.exe
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\ДЗ\Part 2\glWinForm\bin\Debug\glWinForm.pdb
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\ДЗ\Part 2\glWinForm\obj\Debug\ResolveAssemblyReference.cache
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\ДЗ\Part 2\glWinForm\obj\Debug\glWinForm.MainForm.resources
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\ДЗ\Part 2\glWinForm\obj\Debug\glWinForm.Properties.Resources.resources
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\ДЗ\Part 2\glWinForm\obj\Debug\OpenGL.ViewGL.resources
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\ДЗ\Part 2\glWinForm\obj\Debug\glWinForm.csproj.GenerateResource.Cache
